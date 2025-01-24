@@ -1,4 +1,4 @@
 git status
 git add .
-git commit -m "Assignment No 1"
+git commit -m "testing cmd"
 git push origin main
